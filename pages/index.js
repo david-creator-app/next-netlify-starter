@@ -15,7 +15,6 @@ export default function Home() {
         <p className="description">
           All Games You Want To Watch!
         </p>
-      <img src="football-3471371.jpg">
       </main>
       
       <Footer />
