@@ -11,11 +11,11 @@ export default function Home() {
       </Head>
 
       <main>
+        <img src="/football-3471371.jpg" alt="Background Image" width="50%"/>
         <Header title="SPORT UNIVERSE" />
         <p className="description">
           All Games You Want To Watch!
         </p>
-        <img src="/football-3471371.jpg" alt="Background Image"/>
       </main>
       
       <Footer />
